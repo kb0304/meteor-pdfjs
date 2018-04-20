@@ -45067,4 +45067,3 @@ exports.PDFImage = PDFImage;
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=pdf.worker.js.map

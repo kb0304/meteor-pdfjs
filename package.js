@@ -1,7 +1,7 @@
 Package.describe({
   name: "kb0304:pdfjs",
   summary: "Wrapper for serving pdfjs (client only)",
-  version: "2.0.1",
+  version: "2.0.2",
   git: "https://github.com/kb0304/meteor-pdfjs",
 });
 
